@@ -1,0 +1,13 @@
+org\echaselab2\AddressBookViewController.class
+org\echaselab2\ControllerApplication.class
+org\echaselab2\AddressBookServiceS.class
+org\echaselab2\BuddyInfoService.class
+org\echaselab2\BuddyInfoRepository.class
+org\echaselab2\AddressBookRepository.class
+org\echaselab2\BookController.class
+org\echaselab2\AddressBookService.class
+org\echaselab2\BuddyController.class
+org\echaselab2\BuddyInfo.class
+org\echaselab2\AddressBook.class
+org\echaselab2\BuddyInfoViewController.class
+org\echaselab2\Main.class
